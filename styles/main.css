@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 200px;
+}
+
+h3 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Reenie Beanie', cursive;
+    font-size: 35px;
+}
+
+.image {
+    padding-right: 40px;
+}
+
+.blog {
+    margin: 80px;
+}
+
+.link {
+    color: #e86f05;
+    font-family: 'Amatic SC', cursive;
+    font-size: 20px;
+}
+
